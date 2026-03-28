@@ -10,7 +10,6 @@
     "deploy:mainnet": "hardhat run scripts/deploy.js --network mainnet"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^5.0.2",
     "circomlib": "^2.0.5",
     "circomlibjs": "^0.1.7",
     "dotenv": "^16.4.5",
@@ -18,6 +17,7 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.2"
+    "@openzeppelin/contracts": "^5.6.1",
+    "hardhat": "^2.28.6"
   }
 }
