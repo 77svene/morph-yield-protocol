@@ -1,0 +1,7 @@
+Just shipped MorphYield — The Composable NFT-Debt & Liquidity Layer for ETHGlobal HackMoney 2026 | Uniswap & Circle Tracks!
+
+MorphYield transforms static NFT collateral into dynamic, yield-bearing debt instruments by fractionalizing rental rights into tradeable ERC-20 'Utility Tokens' while maintaining u
+
+https://github.com/77svene/morph-yield-protocol
+
+#hackathon #AI #Web3 #DeFi @lablabai
